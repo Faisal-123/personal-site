@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Palatino Sans W23 Bold";
+  src: url("af2ff9479ea760105e2044aa1c5fd546.eot"); /* IE9*/
+  src: url("af2ff9479ea760105e2044aa1c5fd546.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("af2ff9479ea760105e2044aa1c5fd546.woff2") format("woff2"), /* chrome、firefox */
+  url("af2ff9479ea760105e2044aa1c5fd546.woff") format("woff"), /* chrome、firefox */
+  url("af2ff9479ea760105e2044aa1c5fd546.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("af2ff9479ea760105e2044aa1c5fd546.svg#Palatino Sans W23 Bold") format("svg"); /* iOS 4.1- */
+}
